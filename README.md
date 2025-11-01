@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Loufok0</h1>
 <h3 align="center">A passionate coder from Switzerland</h3>
 
+
+
 - 🔭 I’m currently working on **MiniRT 42's project**
 
 - 🌱 I’m currently learning **C and C++**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
