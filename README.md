@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **MiniRT 42's project**
+- 🔭 I’m currently working on **C++ 42's project**
 
 - 🌱 I’m currently learning **C and C++**
 
