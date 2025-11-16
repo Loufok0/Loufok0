@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loufok0</h1>
 <h3 align="center">A passionate coder from Switzerland</h3>
 
-
+- 🎓 I'm student in **42 Lausanne**
 
 - 🔭 I’m currently working on **C++ 42's project**
 
