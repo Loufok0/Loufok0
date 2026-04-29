@@ -44,8 +44,9 @@ Hope you'll enjoy it!
 <div align="left">
 <strong>Tools & Technologies:</strong>
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a><a href="https://www.raspberrypi.com/"><img src="https://upload.wikimedia.org/wikipedia/fr/3/3b/Raspberry_Pi_logo.svg" width="40"/></a><a href="https://www.arduino.cc/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40"/></a>
-</div>
+</div><br>
 
+<img src="https://wakatime.com/share/@037628e7-9df6-4084-9398-b90dd454253e/0d1d9453-f91a-43f8-8732-251b907de98c.svg" width="500" />
 
 ---
 
