@@ -9,7 +9,7 @@ Hope you'll enjoy it!
 
 ## Me summarized
 
-- 🎓 I'm student in **[42](https://42.fr/en/homepage/) [Lausanne](https://42lausanne.ch/)**, soon graduated from its common core!
+- 🎓 I'm student at **[42](https://42.fr/en/homepage/) [Lausanne](https://42lausanne.ch/)**, soon graduated from its common core!
 
 - 🌱 I’m currently learning **C and C++**
 
@@ -28,7 +28,7 @@ Hope you'll enjoy it!
 | **[CPP](https://github.com/Loufok0/CPP)** | C++ modules from 42 | C++ |
 | **[Webserv](https://github.com/Loufok0/Webserv)** | Web server project from 42 | C++, HTML, CSS, JS |
 | **[minishell](https://github.com/Loufok0/minishell)** | Custom Unix shell project from 42 | C |
-| **[Serv-itor](https://github.com/Loufok0/Serv-itor-self-hosted)** | Self-hosted music hub | JavaScript, Python |
+| **[Serv-itor](https://github.com/Loufok0/Serv-itor-self-hosted)** | Self-hosted music hub | HTML, CSS, JS, Python |
 | **[Inception](https://github.com/Loufok0/Inception)** | Docker infrastructure | Docker, Shell, PHP |
 | **[Self-driving-car](https://github.com/Loufok0/Self-driving-car)** | Autonomous vehicle (work in progress) | Hardware, Raspberry Pi |
 
