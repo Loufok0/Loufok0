@@ -4,7 +4,14 @@ Welcome to my profile!
 
 I'm a passionate developer interested in creative and technical projects.<br>
 Here you'll find my work in C, C++, and various other technologies.<br>
-Hope you'll enjoy it!
+
+While reading, you may wanna try listening to one of my personnal recommendation:
+
+<a href="https://www.youtube.com/watch?v=OHAjc-ayhus" target="_blank" rel="noopener noreferrer">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/da960e14-4ca4-4d3e-8c6c-5f5463e53bbf" />
+</a>
+
+Hope you'll enjoy your time spent here!
 
 
 ## Me summarized
@@ -16,7 +23,6 @@ Hope you'll enjoy it!
 - 🔭 I’m currently working on **42 C++ projects**
 
 - I like music and making things!
-
 
 
 ## More on my projects
