@@ -36,6 +36,7 @@ Hope you'll enjoy your time spent here!
 | **[minishell](https://github.com/Loufok0/minishell)** | Custom Unix shell project from 42 | C |
 | **[Serv-itor](https://github.com/Loufok0/Serv-itor-self-hosted)** | Self-hosted music hub | HTML, CSS, JS, Python |
 | **[CLLib](https://github.com/Loufok0/CLLib)** | Command Line Interface Library (work in progress) | C++ |
+| **[fdf](https://github.com/Loufok0/fdf)** | First graphical project from 42 | C |
 | **[Inception](https://github.com/Loufok0/Inception)** | Docker infrastructure | Docker, Shell, PHP |
 | **[Self-driving-car](https://github.com/Loufok0/Self-driving-car)** | Autonomous vehicle (work in progress) | Hardware, Raspberry Pi |
 
